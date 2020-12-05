@@ -1,5 +1,6 @@
-// the utility file will execute first
+// 用於方便的驗證格式用
 const validator = require('validator')
+// 產生彩色 console.log
 const chalk = require('chalk')
 
 // CLI print color, make log colorful
